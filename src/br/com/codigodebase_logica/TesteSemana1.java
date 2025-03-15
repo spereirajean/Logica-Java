@@ -22,7 +22,5 @@ public class TesteSemana1 {
         System.out.println("O produto "+produto+" no valor de R$"
         +valor+" será entregue em: "+estado);
 
-
-
     }
 }
