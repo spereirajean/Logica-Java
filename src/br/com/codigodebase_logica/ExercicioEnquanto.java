@@ -6,13 +6,17 @@ public class ExercicioEnquanto {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        double num;
+        double num, contador =1, res;
         System.out.println("Digite o número desejado a ser multiplicado");
         num = input.nextInt();
 
-        while (num < 100){
-            num ++;
-            System.out.println(num);
+
+
+        while (contador <= 100){
+            res = num * contador;
+            System.out.println(res);
+
+            contador ++;
         }
     }
 }
