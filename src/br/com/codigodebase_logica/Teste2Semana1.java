@@ -19,7 +19,7 @@ public class Teste2Semana1 {
 
         novo_salario = salario * 2;
 
-        System.out.println("Seu novo salario = " +novo_salario);
+        System.out.println("Seu novo salario é = " +novo_salario);
 
     }
 
