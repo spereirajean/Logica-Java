@@ -11,7 +11,7 @@ public class Teste2Semana1 {
         int novo_salario;
 
 
-        System.out.println("Qual seu nome?");
+        System.out.println("Qual seu nome ?");
         nome = input.nextLine();
 
         System.out.println("Qual seu Salario ? ");
